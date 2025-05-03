@@ -10,4 +10,3 @@ To run these codes, you need to have MATLAB installed on your computer.
 You can download and deploy SPM toolbox (https://www.fil.ion.ucl.ac.uk/spm/), DPABI toolbox (https://rfmri.org/DPABI), GRETNA toolbox (http://www.nitrc.org/projects/gretna/), and GIFT v3.0b toolbox (https://trendscenter.org/software/gift/). 
 
 
-
