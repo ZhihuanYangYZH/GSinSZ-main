@@ -23,7 +23,7 @@ Fs = 1/TR; % sampling_frequency
 
 
 %% 
-Allx = Alltc;  % x: IC' time series
+Allx = Alltc;  % x: IC' time series and six motion parameters
 % Allx = All_spatial_maps;  % x: IC' spatial pattern
 Ally = AllGS; %  y: GS;
 % Ally = AllGSCORR; %  y: GSCORR
